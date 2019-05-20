@@ -1,10 +1,10 @@
-# 2. my new decision
+# {{ adr-index}} . {{ adr-name }}
 
-Date: 2019-05-18
+Date: {{ date }}
 
 ## Status
 
-Accepted
+{{ status }}
 
 ## Context
 
@@ -17,3 +17,8 @@ The change that we're proposing or have agreed to implement.
 ## Consequences
 
 What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+
+## Debt created
+
+Does this will create technical debt ? Does this should be mutualized, but now it doen't ?
+What should be done to mitigate debt ?
