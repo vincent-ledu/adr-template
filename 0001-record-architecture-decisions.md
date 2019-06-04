@@ -4,7 +4,7 @@ Date: 2019-05-18
 
 ## Status
 
-Accepted
+Status: Accepted
 
 ## Context
 
