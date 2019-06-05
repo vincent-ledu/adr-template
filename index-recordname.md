@@ -4,7 +4,7 @@ Date: {{ date }}
 
 ## Status
 
-{{ status }}  
+Status: {{ status }}  
 {{ links }}
 
 ## Context
