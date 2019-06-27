@@ -1,4 +1,4 @@
-# {{ adr-index}} . {{ adr-name }}
+# {{ adr-index}}. {{ adr-name }}
 
 Date: {{ date }}
 
