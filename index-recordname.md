@@ -5,7 +5,7 @@ Date: {{ date }}
 ## Status
 
 Status: {{ status }}  
-Relation: {{ links }}
+{{ links }}
 
 ## Context
 
