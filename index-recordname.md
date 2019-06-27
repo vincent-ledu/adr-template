@@ -1,10 +1,11 @@
-# 2. my new decision
+# {{ adr-index}} . {{ adr-name }}
 
-Date: 2019-05-18
+Date: {{ date }}
 
 ## Status
 
-Status: Accepted
+Status: {{ status }}  
+Relation: {{ links }}
 
 ## Context
 
